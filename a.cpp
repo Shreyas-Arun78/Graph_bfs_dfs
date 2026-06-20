@@ -3,7 +3,7 @@
     Date : 23-12-2025
     Purpose : Studying
 */
-// Actually i love when my code goes too long (not intentionally ) , and i nver bother to push my project on GitHub but i want to push cuz i don't wanna delete it . So yeah enjoy this .. my future Shreyas Arun!
+// Actually i like when my code goes too long (not intentionally ) , and i never bother to push my project on GitHub but i want to push cuz i don't wanna delete it . So yeah enjoy this .. my future Shreyas Arun!
 
 #include <bits/stdc++.h>
 using namespace std;
